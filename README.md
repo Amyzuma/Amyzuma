@@ -1,4 +1,4 @@
-### Hi there 👋 :EMOJICODE::octocat: 
+### Hi there 👋:octocat: 🌱 I’m currently learning ...
 
 <!--
 **Amyzuma/Amyzuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
